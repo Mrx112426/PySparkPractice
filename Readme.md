@@ -1,4 +1,4 @@
-# PySpark RDD Analytics: Многодоменная обработка данных (https://github.com/Mrx112426/PySparkPractice/tree/main/RDD)
+# [ PySpark RDD Analytics: Многодоменная обработка данных](https://github.com/Mrx112426/PySparkPractice/tree/main/RDD)
 
 **Комплексный pet-проект** по распределённой обработке данных с использованием **Apache Spark RDD API** в Google Colab. Ноутбук демонстрирует практическое применение PySpark на пяти различных доменах данных с production-ready техниками аналитики.
 
@@ -14,9 +14,9 @@
 - Метрики вовлечённости постов в соцсетях
 - Геополитический анализ данных (датасет стран)
 
-# Аналитика данных в PySpark: онлайн‑активность, финансы АвтоВАЗа и вселенная Star Wars (https://github.com/Mrx112426/PySparkPractice/tree/main/DataFrame)
+# [Аналитика данных в PySpark: онлайн‑активность, финансы АвтоВАЗа и вселенная Star Wars](https://github.com/Mrx112426/PySparkPractice/tree/main/DataFrame)
 
-## Описание проекта
+## 📋 Описание проекта
 
 Учебный проект в формате Jupyter/Colab‑ноутбука, в котором на практике решаются несколько независимых задач аналитики данных с использованием **PySpark** и API DataFrame:
 
